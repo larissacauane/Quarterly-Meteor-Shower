@@ -6,7 +6,7 @@
  ## :computer: Projeto
  Esse projeto imprime todas as chuvas de meteoro de um trimestre, usando como base o mês atual.
 
- **Projeto feito para praticar estruturas condicionais.**
+ **Projeto desenvolvido para praticar estruturas condicionais.**
  
  ## :sparkles: Imagens
  
